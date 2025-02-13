@@ -21,4 +21,9 @@ How to create a repository
 What is a README
 - This is a documentation that provides information about a project, user or a software product in version control systesms
 
+What are the Importance of a branch
+- adding a feature in development
+- collaborating with other developers on the same project
+- to not break your entire repository
+- not upsetting your co-workers
 

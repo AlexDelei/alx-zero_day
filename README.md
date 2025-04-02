@@ -27,3 +27,4 @@ What are the Importance of a branch
 - to not break your entire repository
 - not upsetting your co-workers
 
+## Get back into your senses boy!.
